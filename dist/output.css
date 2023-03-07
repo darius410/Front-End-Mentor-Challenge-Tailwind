@@ -513,7 +513,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-@tailwind compnents;
+@tailwind components;
 
 .relative {
   position: relative;
